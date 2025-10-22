@@ -1,3 +1,17 @@
+## 🗞️ Developer News & Community Sources
+| Source | Focus | Notes |
+|---------|--------|-------|
+| [Dev.to](https://dev.to) | Developer articles, tutorials | Community-driven platform for all levels |
+| [FreeCodeCamp](https://www.freecodecamp.org/news) | Web development, guides | Free, in-depth tutorials and learning resources |
+| [GitHub Repositories](https://github.com/trending) | Open source projects | Discover trending repos and new tech stacks |
+| [Hacker News](https://news.ycombinator.com/) | Tech, startups, research | Community-curated, highly active |
+| [Hashnode](https://hashnode.com) | Developer blogs | Platform for devs to write and share insights |
+| [Indie Hackers](https://www.indiehackers.com/) | Bootstrapping, startups | Forum and stories from indie founders |
+| [Lobsters](https://lobste.rs/) | Tech discussions | Smaller, more technical alternative to HN |
+| [Medium – Programming](https://medium.com/tag/programming) | Essays, tutorials | Mixed quality, but good for niche insights |
+| [Product Hunt](https://www.producthunt.com/) | New products, startups | Great for discovering emerging dev tools |
+| [Reddit – r/programming](https://www.reddit.com/r/programming/) | Programming news, discussions | Highly active, diverse content |
+
 ## 🎥 YouTube Channels
 | Channel | Focus | Notes |
 |----------|--------|-------|
