@@ -12,6 +12,21 @@
 | [Product Hunt](https://www.producthunt.com/) | New products, startups | Great for discovering emerging dev tools |
 | [Reddit – r/programming](https://www.reddit.com/r/programming/) | Programming news, discussions | Highly active, diverse content |
 
+
+## 🧠 Programming Blogs & Learning Resources
+| Source | Focus | Notes |
+|---------|--------|-------|
+| [Frontend Masters](https://frontendmasters.com/) | Web development, full stack courses | Structured video courses from industry experts |
+| [Overreacted](https://overreacted.io/) | React, JavaScript, design patterns | Dan Abramov’s blog on deep frontend concepts |
+| [Nan.fyi](https://www.nan.fyi/) | JavaScript, web internals | Concise explanations of low-level browser and JS topics |
+| [Evan Hahn](https://evanhahn.com/) | JavaScript, Express, web security | Personal blog with practical web dev insights |
+| [Kent C. Dodds](https://kentcdodds.com/) | React, testing, frontend best practices | Practical articles focused on modern frontend workflows |
+| [The Pragmatic Engineer](https://blog.pragmaticengineer.com/) | Engineering culture, systems design | Analysis of real-world software engineering practices |
+| [Martin Fowler](https://martinfowler.com/) | Architecture, refactoring, design patterns | Foundational essays on software design and methodology |
+| [CSS-Tricks](https://css-tricks.com/) | CSS, frontend, web design | Extensive guides and tutorials for styling and layout |
+
+
+
 ## 🎥 YouTube Channels
 | Channel | Focus | Notes |
 |----------|--------|-------|
