@@ -8,8 +8,6 @@
 | [Hashnode](https://hashnode.com) | Developer blogs | Platform for devs to write and share insights |
 | [Indie Hackers](https://www.indiehackers.com/) | Bootstrapping, startups | Forum and stories from indie founders |
 | [Lobsters](https://lobste.rs/) | Tech discussions | Smaller, more technical alternative to HN |
-| [Medium – Programming](https://medium.com/tag/programming) | Essays, tutorials | Mixed quality, but good for niche insights |
-| [Product Hunt](https://www.producthunt.com/) | New products, startups | Great for discovering emerging dev tools |
 | [Reddit – r/programming](https://www.reddit.com/r/programming/) | Programming news, discussions | Highly active, diverse content |
 
 
