@@ -49,6 +49,7 @@
 | [The Prime Timeagen](https://www.youtube.com/@ThePrimeTimeagen) | Live coding, dev mindset | Opinionated takes and live dev commentary |
 | [Argonaut Code](https://www.youtube.com/@argonautcode) | Rust, systems programming | Clean technical content with strong fundamentals |
 | [Computerphile](https://www.youtube.com/@Computerphile) | Computer science, academic topics | Accessible explanations of CS theory |
+| [Dreams of Code](https://www.youtube.com/@dreamsofcode) | Software, productivity, golang | Go, deployment and tools explanations |
 
 Bonus
 | [Programmers Are Also Human](https://www.youtube.com/@programmersarealsohuman5909) | Dev humor, work culture | Satirical yet relatable content |
